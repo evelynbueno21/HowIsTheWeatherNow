@@ -1,6 +1,6 @@
-// 8738a7a246a92ace7a3f88183c21f168
 
-const apiKey = '8738a7a246a92ace7a3f88183c21f168';
+
+const apiKey = '';
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
 
